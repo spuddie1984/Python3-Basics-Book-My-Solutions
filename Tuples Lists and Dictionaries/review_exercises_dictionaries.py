@@ -1,8 +1,5 @@
 # 1. Create an empty dictionary named captains.
 
-from ast import Del
-
-
 captains = {}
 
 # 2. Using square bracket notation, enter the following data into the
